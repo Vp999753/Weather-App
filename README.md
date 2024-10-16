@@ -22,6 +22,9 @@ This project is a responsive, interactive weather dashboard that displays curren
 **Technology Stack**
 
 1)HTML5: Used to structure the content of the webpage.
+
 2)CSS3: Custom styles for the design, animations, and layout. Responsive design techniques are used for mobile compatibility.
+
 3)JavaScript: Handles dynamic elements such as fetching data from APIs and updating the UI in real time.
+
 4) Weather API: The dashboard uses a weather API (like OpenWeatherMap) to fetch real-time weather data based on the user's location input.
